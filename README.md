@@ -12,6 +12,10 @@
 </h4>
 <img src = "aboutop.png">
 <h4>
-  The product's section
+  The product's section:-
 </h4>
 <img src = "productop.png">
+<h4>
+  The footer section:-
+</h4>
+<img src = "footerop.png">
